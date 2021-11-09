@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER connect.ranjan@gmail.com
+MAINTAINER appsdbapramod@gmail.com
 RUN yum install -y httpd \
    zip \
    unzip
